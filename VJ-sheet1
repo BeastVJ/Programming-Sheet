@@ -8,3 +8,59 @@ Input: number = 4
 Output: Even
 Explanation: Since 4 is divisible by 2, it is an even number.
 
+Question 2.Checking for Prime Numbers
+Difficulty: Easy
+Topics: Basic Programming, Number Theory
+Description: Write a program to determine if a number is prime.
+Example:
+Input: number = 7
+Output: Prime
+Explanation: 7 has no divisors other than 1 and itself, so it is a prime number.
+
+Question 3.Validating Leap Years
+Difficulty: Easy
+Topics: Basic Programming, Date Handling
+Description: Write a program to check if a given year is a leap year.
+Example:
+Input: year = 2020
+Output: Leap Year
+Explanation: 2020 is divisible by 4 but not by 100, or it is divisible by 400, so it is a leap year.
+
+Question 4.Finding the Fibonacci Number at a Specific Position
+Difficulty: Easy
+Topics: Basic Programming, Sequences
+Description: Write a program to find the Fibonacci number at a specific position.
+Example:
+Input: position = 5
+Output: 5
+Explanation: The Fibonacci number at position 5 is 5 (sequence: 0, 1, 1, 2, 3, 5).
+
+Question 5.Calculating the Sum of Digits of a Number Until Single Digit
+Difficulty: Medium
+Topics: Mathematical Computations
+Description: Write a program to keep summing the digits of a number until a single digit is obtained.
+Example:
+Input: number = 9875
+Output: 2
+Explanation: The sum of digits is 9 + 8 + 7 + 5 = 29, and then 2 + 9 = 11, and finally 1 + 1 = 2.
+
+Question 6.Generating a Fibonacci Sequence Using Recursion
+Difficulty: Medium
+Topics: Recursion, Sequences
+Description: Write a recursive program to generate the Fibonacci sequence up to a given number.
+Example:
+Input: number = 5
+Output: 0, 1, 1, 2, 3
+Explanation: The Fibonacci sequence up to 5 is generated.
+
+Question 7.Finding the Second Largest Number in an Array
+Difficulty: Medium
+Topics: Arrays, Sorting
+Description: Write a program to find the second largest number in an array.
+Example:
+Input: array = [10, 20, 4, 45, 99]
+Output: 45
+Explanation: The second largest number in the array is 45.
+
+
+
